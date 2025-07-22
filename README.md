@@ -50,7 +50,7 @@ Pharma Safe Chain is an end-to-end ERP system tailored for medicine suppliers, p
 - Built backend APIs using ASP.NET Core 8, integrated JWT and SQL queries
 - Managed DB schema, testing, and debugging
 - Implemented auto PDF generation and real-time alerts
-- Coordinated with team members using Git & Trello
+- Coordinated with team members using Gitlab
 
 ---
 
