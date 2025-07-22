@@ -37,7 +37,6 @@ Pharma Safe Chain is an end-to-end ERP system tailored for medicine suppliers, p
 
 ## 📸 UI Screenshots
 
-> _You can upload screenshots like:_
 - Dashboard
 - Inventory module
 - PDF invoice view
